@@ -8,7 +8,7 @@
 
 - **ชื่อ-นามสกุล:** นายณัฐกร รุ่งฟ้า (Nattakron Rungfa)
 - **รหัสนักศึกษา:** 673380512-7 | Sec: 1
-- **Email:** [nattakro.r@kkumail.com](mailto:nattakron.r@kkumail.com)
+- **Email:** [nattakron.r@kkumail.com](mailto:nattakron.r@kkumail.com)
 
 ---
 
@@ -22,7 +22,7 @@
 
 | CCNA: Introduction to Networks | Getting Started with Cisco Packet Tracer |
 |---|---|
-| [![CCNA Certificate](Cisco Networking Academy/CCNA-_Introduction_to_Networks_certificate_nattakron-r-kkumail-com_b8f2d2e3-9f98-43a3-8d4e-62b7d3cc4e5a.png)](path/to/ccna-cert-full.png) | [![Packet Tracer Certificate](path/to/pt-cert.png)](path/to/pt-cert-full.png) |
+| [![CCNA Certificate](path/to/Cisco Networking Academy/CCNA-_Introduction_to_Networks_certificate_nattakron-r-kkumail-com_b8f2d2e3-9f98-43a3-8d4e-62b7d3cc4e5a.pdf)](path/to/ccna-cert-full.png) | [![Packet Tracer Certificate](path/to/pt-cert.png)](path/to/pt-cert-full.png) |
 | **CCNA: Introduction to Networks** | **Getting Started with Cisco Packet Tracer** |
 | ใบรับรองความรู้พื้นฐานด้านเครือข่ายคอมพิวเตอร์ | ใบรับรองทักษะการใช้โปรแกรมจำลองเครือข่าย |
 
