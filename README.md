@@ -22,9 +22,9 @@
 
 | CCNA: Introduction to Networks | Getting Started with Cisco Packet Tracer |
 |---|---|
-| [![CCNA Certificate](path/to/Cisco Networking Academy/CCNA-_Introduction_to_Networks_certificate_nattakron-r-kkumail-com_b8f2d2e3-9f98-43a3-8d4e-62b7d3cc4e5a.pdf)](path/to/ccna-cert-full.png) | [![Packet Tracer Certificate](path/to/pt-cert.png)](path/to/pt-cert-full.png) |
-| **CCNA: Introduction to Networks** | **Getting Started with Cisco Packet Tracer** |
+| 📄 [**CCNA: Introduction to Networks**](Cisco%20Networking%20Academy/CCNA-_Introduction_to_Networks_certificate_nattakron-r-kkumail-com_b8f2d2e3-9f98-43a3-8d4e-62b7d3cc4e5a.pdf) | 📄 [**Getting Started with Cisco Packet Tracer**](Cisco%20Networking%20Academy/Getting_Started_with_Cisco_Packet_Tracer_certificate_nattakron-r-kkumail-com_72a6144a-3bde-4515-aab5-86ab7e040fab.pdf) |
 | ใบรับรองความรู้พื้นฐานด้านเครือข่ายคอมพิวเตอร์ | ใบรับรองทักษะการใช้โปรแกรมจำลองเครือข่าย |
+
 
 ---
 
