@@ -40,7 +40,7 @@
 
 สามารถคลิกที่ลิงก์ด้านล่างเพื่อไปยังโฟลเดอร์หรือไฟล์งานที่ต้องการตรวจสอบได้ครับ
 
-### 🚀 Final Project: Brain to Brain Network (BBN)
+### 🚀 Final Project: Transpace Time Communication (TS-COM)
 
 - **โครงงานกลุ่ม (Group Project):** โปรเจกต์สุดท้ายของรายวิชา ([คลิกเพื่อดูรายละเอียดสมาชิกกลุ่ม และลิงก์เชื่อมโยงไปยัง Source Code หลักของโปรเจกต์](path/to/final-project))
 
@@ -54,20 +54,20 @@
 
 แบบฝึกหัดและการบ้านภาคทฤษฎี
 
-- [Personal Essay](personal_essay.pdf)
-- [Assignment 2](Assignment_2.pdf)
-- [Week 3 Sample (Packet Tracer File)](Assigment_3_673380512-7.pkt)
-- [Assignment 4](Assignment_4.pdf)
+- [Personal Essay](Assignment/personal essay.pdf)
+- [Assignment 2](Assignment/Assignment 2.pdf)
+- [Week 3 Sample (Packet Tracer File)](Assignment/Assigment 3 673380512-7.pkt)
+- [Assignment 4](Assignment/Assignment 4.pdf)
 
 ### 🔬 Lab Reports
 
 รายงานผลการทดลองปฏิบัติการประจำสัปดาห์
 
-- [LAB 1](path/to/lab1)
-- [LAB 2](path/to/lab2)
-- [LAB 3 - MIME](path/to/lab3)
-- [LAB 4](path/to/lab4)
-- [LAB 5](path/to/lab5)
+- [LAB 1](Lab/LAB 1.pdf)
+- [LAB 2](Lab/LAB2.pdf)
+- [LAB 3 - MIME](Lab/Lab3 — MIME.pdf)
+- [LAB 4](Lab/LAB 4 bro.pdf)
+- [LAB 5](Lab/Network Lab5.pdf)
 
 ---
 
