@@ -32,20 +32,7 @@
 
 ประวัติการทำแบบทดสอบ Checkpoint Exams และความคืบหน้าในการเรียน
 
-| การทดสอบ | คะแนน |
-|---|---|
-| Checkpoint Exam: Basic Network Connectivity and Communications Exam | 100/100 |
-| Checkpoint Exam: Ethernet Concepts Exam | 100/100 |
-| Checkpoint Exam: Communicating Between Networks Exam | 100/100 |
-| Checkpoint Exam: IP Addressing Exam | 84/100 |
-| Checkpoint Exam: Network Application Communications Exam | 84/100 |
-| Checkpoint Exam: Building and Securing a Small Network Exam | 94/100 |
-| **Module Group Exams Average** | **97%** |
-| CCNA: Introduction to Networks Course Final Exam | 100/100 |
-| **Final Exam Average** | **100%** |
-| **Class Grades** | **98.2%** |
-
-> 📸 [ดูภาพ Gradebook แบบเต็ม](path/to/gradebook-screenshot.png)
+![Gradebook](Cisco%20Networking%20Academy/Checkpoint_Exam.png)
 
 ---
 
