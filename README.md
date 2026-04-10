@@ -54,10 +54,10 @@
 
 แบบฝึกหัดและการบ้านภาคทฤษฎี
 
-- [Personal Essay](path/to/personal-essay)
-- [Assignment 2](path/to/assignment2)
-- [Week 2 Sample (Packet Tracer File)](path/to/week2-sample)
-- [Assignment 4](path/to/assignment4)
+- [Personal Essay](personal_essay.pdf)
+- [Assignment 2](Assignment_2.pdf)
+- [Week 3 Sample (Packet Tracer File)](Assigment_3_673380512-7.pkt)
+- [Assignment 4](Assignment_4.pdf)
 
 ### 🔬 Lab Reports
 
