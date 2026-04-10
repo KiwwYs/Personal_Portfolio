@@ -64,7 +64,7 @@
 รายงานผลการทดลองปฏิบัติการประจำสัปดาห์
 
 - [LAB 1](Lab/LAB_1.pdf)
-- [LAB 2](Lab/LAB_2.pdf)
+- [LAB 2](Lab/LAB2.pdf)
 - [LAB 3 - MIME](Lab/Lab3_MIME.pdf)
 - [LAB 4](Lab/LAB4_bro.pdf)
 - [LAB 5](Lab/Network_Lab5.pdf)
