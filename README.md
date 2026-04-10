@@ -54,20 +54,20 @@
 
 แบบฝึกหัดและการบ้านภาคทฤษฎี
 
-- [Personal Essay](Assignment/personal essay.pdf)
-- [Assignment 2](Assignment/Assignment 2.pdf)
-- [Week 3 Sample (Packet Tracer File)](Assignment/Assigment 3 673380512-7.pkt)
-- [Assignment 4](Assignment/Assignment 4.pdf)
+- [Personal Essay](Assignment/personal_essay.pdf)
+- [Assignment 2](Assignment/Assignment2.pdf)
+- [Week 3 Sample (Packet Tracer File)](Assignment/Assigment_3_673380512-7.pkt)
+- [Assignment 4](Assignment/Assignment4.pdf)
 
 ### 🔬 Lab Reports
 
 รายงานผลการทดลองปฏิบัติการประจำสัปดาห์
 
-- [LAB 1](Lab/LAB 1.pdf)
+- [LAB 1](Lab/LAB1.pdf)
 - [LAB 2](Lab/LAB2.pdf)
-- [LAB 3 - MIME](Lab/Lab3 — MIME.pdf)
-- [LAB 4](Lab/LAB 4 bro.pdf)
-- [LAB 5](Lab/Network Lab5.pdf)
+- [LAB 3 - MIME](Lab/Lab3—MIME.pdf)
+- [LAB 4](Lab/LAB4bro.pdf)
+- [LAB 5](Lab/NetworkLab5.pdf)
 
 ---
 
