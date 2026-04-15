@@ -42,7 +42,7 @@
 
 ### 🚀 Final Project: Transpace Time Communication (TS-COM)
 
-- **โครงงานกลุ่ม (Group Project):** โปรเจกต์สุดท้ายของรายวิชา ([คลิกเพื่อดูรายละเอียดสมาชิกกลุ่ม และลิงก์เชื่อมโยงไปยัง Source Code หลักของโปรเจกต์](path/to/final-project))
+- **โครงงานกลุ่ม (Group Project):** โปรเจกต์สุดท้ายของรายวิชา ([ลิงก์](https://github.com/genezobye/personal-portfolio/tree/main/Final%20Project))
 
 ### 💻 Network Programming Labs 2025
 
